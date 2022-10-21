@@ -1,2 +1,1 @@
-# js_map
-What is Map / Set?
+# What is Map / Set?
