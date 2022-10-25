@@ -1,9 +1,11 @@
 # MAP
 
-* creates a new array from calling a function for every array element.
+>method creates a new array populated with the results of calling a provided function on every element in the calling array.
 
-* calls a function once for each element in an array.
+* creates a new array from calling a function for every array element
 
-* does not execute the function for empty elements.
+* calls a function once for each element in an array
+
+* does not execute the function for empty elements
 
 * does not change the original array
